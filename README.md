@@ -1,5 +1,5 @@
 <table>
-<thead><tr><th text-algin="left">显示名称 文件夹名称</th><th>下载地址</th></tr></thead>
+<thead><tr><th>界面显示名称 文件夹名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>CLRNet clrnet_tusimple_r18-r20230901</td><td><a href="https://mbd.pub/o/bread/mbd-YZWXkptyZQ==">点我下载</a></td></tr>
 <tr><td>D-FINE-L dfine_l_obj2coco-r20250514</td><td><a href="https://mbd.pub/o/bread/mbd-YZWXkptsZQ==">点我下载</a></td></tr>
